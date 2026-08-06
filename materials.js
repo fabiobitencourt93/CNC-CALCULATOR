@@ -1,0 +1,1 @@
+const materials=[{n:'SAE1020',vc:180},{n:'Alumínio',vc:250},{n:'Inox304',vc:110}];
